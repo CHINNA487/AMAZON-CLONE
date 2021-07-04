@@ -7,6 +7,8 @@ import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
 import SignIn from "./SignIn";
 
 function App() {
+  console.log("shiva said, \"you're mistaken\"");
+  console.log("shiva said, \"you're a nice guy\"");
   return (
     <Router>
     <div className="app">
