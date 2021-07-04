@@ -1,0 +1,33 @@
+.checkout {
+display: flex;
+padding: 100px;
+background-color: white;
+height: max-content;
+}
+.checkout__ad{
+    display: flex;
+    width: 100%;
+        mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1),rgba(0, 0, 0, 0))
+
+}
+.checkout__left{
+    width: 100%;
+    margin-bottom: 10px;
+
+}
+/* .checkout__details{
+
+} */
+
+.checkout__right{
+    width: 100%;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
+
+.checkout__title{
+    max-height: 300px;
+    width:100%;
+    object-fit: contain;
+    margin-bottom: 20px;
+}
