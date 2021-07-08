@@ -8,11 +8,8 @@ import SignIn from "./SignIn";
 
 function App() {
 console.log("How are you Mr. Shiva Reddy?");
-//Hi I am writting multiple line
-// Welcome to App.js
-// This is the main file for project
-// Please dont touch and delete it
-// I am commiting this changes on 8 July 2021
+console.log("How is your health Mr. Shiva Reddy?");
+//can you slove the issue by committing the changes in firebase app
   return (
     <Router>
     <div className="app">
@@ -32,8 +29,6 @@ console.log("How are you Mr. Shiva Reddy?");
     </Router>
 
   );
-// Hello
-// This is end of file for App.js
 }
 
 export default App;
