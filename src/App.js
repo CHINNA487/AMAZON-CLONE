@@ -7,9 +7,7 @@ import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
 import SignIn from "./SignIn";
 
 function App() {
-  console.log("shiva said, \"you're mistaken\"");
-  console.log("shiva said, \"you're a nice guy\"");
-console.log("Commited by Shiva Reddy");
+console.log("How are you Mr. Shiva Reddy?");
 //Hi I am writting multiple line
 // Welcome to App.js
 // This is the main file for project
