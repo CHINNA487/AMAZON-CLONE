@@ -26,6 +26,7 @@ console.log("How is your health Mr. Shiva Reddy?");
       </Route>
       </Switch>
     </div>
+<input type="text" placeholder="email"/>
     </Router>
 
   );
