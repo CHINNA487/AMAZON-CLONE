@@ -6,6 +6,7 @@ import Checkout from "./Checkout";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import SignIn from "./SignIn";
 import Footer from './footer'
+import Main from './main'
 
 function App() {
   console.log("How are you Mr. Shiva Reddy?");
@@ -24,6 +25,7 @@ function App() {
           </Route>
           <Route path="/">
             <Home />
+            <Main />
             <Footer />
           </Route>
         </Switch>
